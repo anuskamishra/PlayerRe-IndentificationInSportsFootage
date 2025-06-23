@@ -23,3 +23,6 @@ Install dependencies:
 
 ```bash
 pip install ultralytics opencv-python deep_sort_realtime
+
+## OUTPUT
+Youtube link - https://youtu.be/RMC9GsrKuEE
